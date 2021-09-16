@@ -1,0 +1,6 @@
+console.log('hello world')
+console.log('I love to do programming')
+console.log(23)
+console.log(60.789)
+console.log(9+9)
+console.log('9' + 9)
